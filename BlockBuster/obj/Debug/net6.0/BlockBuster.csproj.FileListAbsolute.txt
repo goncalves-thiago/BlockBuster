@@ -1,0 +1,15 @@
+C:\Users\thiago_goncalves\source\repos\BlockBuster\BlockBuster\bin\Debug\net6.0\BlockBuster.exe
+C:\Users\thiago_goncalves\source\repos\BlockBuster\BlockBuster\bin\Debug\net6.0\BlockBuster.deps.json
+C:\Users\thiago_goncalves\source\repos\BlockBuster\BlockBuster\bin\Debug\net6.0\BlockBuster.runtimeconfig.json
+C:\Users\thiago_goncalves\source\repos\BlockBuster\BlockBuster\bin\Debug\net6.0\BlockBuster.dll
+C:\Users\thiago_goncalves\source\repos\BlockBuster\BlockBuster\bin\Debug\net6.0\BlockBuster.pdb
+C:\Users\thiago_goncalves\source\repos\BlockBuster\BlockBuster\obj\Debug\net6.0\BlockBuster.csproj.AssemblyReference.cache
+C:\Users\thiago_goncalves\source\repos\BlockBuster\BlockBuster\obj\Debug\net6.0\BlockBuster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago_goncalves\source\repos\BlockBuster\BlockBuster\obj\Debug\net6.0\BlockBuster.AssemblyInfoInputs.cache
+C:\Users\thiago_goncalves\source\repos\BlockBuster\BlockBuster\obj\Debug\net6.0\BlockBuster.AssemblyInfo.cs
+C:\Users\thiago_goncalves\source\repos\BlockBuster\BlockBuster\obj\Debug\net6.0\BlockBuster.csproj.CoreCompileInputs.cache
+C:\Users\thiago_goncalves\source\repos\BlockBuster\BlockBuster\obj\Debug\net6.0\BlockBuster.dll
+C:\Users\thiago_goncalves\source\repos\BlockBuster\BlockBuster\obj\Debug\net6.0\refint\BlockBuster.dll
+C:\Users\thiago_goncalves\source\repos\BlockBuster\BlockBuster\obj\Debug\net6.0\BlockBuster.pdb
+C:\Users\thiago_goncalves\source\repos\BlockBuster\BlockBuster\obj\Debug\net6.0\BlockBuster.genruntimeconfig.cache
+C:\Users\thiago_goncalves\source\repos\BlockBuster\BlockBuster\obj\Debug\net6.0\ref\BlockBuster.dll
