@@ -14,6 +14,7 @@ namespace BlockBuster
 
             while (menuRead != "9")
             {
+
                menuRead = menu.Show();
 
                 switch (menuRead)
