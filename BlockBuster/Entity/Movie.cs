@@ -26,6 +26,6 @@ namespace BlockBuster.Entity
         public override string ToString()
         {
             return $"ID: {id} - Name: {name} - Director: {director}";
-        }
+        } 
     }
 }
